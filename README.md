@@ -2,11 +2,11 @@
 
 <br/>
 
-# 🏖 Personal Study Records \_ Judy
+# 🏖 [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
 
 <br/><br/>
 
-## ** Network **
+## 🕸 **Network**
 
 <details markdown="1">
 <summary><strong> 모두의 네트워크 </strong></summary>
@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-## ** OS **
+## ⚙️ 🛠 **OS**
 
 <details markdown="1">
 <summary><strong> Operating System Concept </strong></summary>
@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-## ** DB **
+## 🧳 **DB**
 
 <details markdown="1">
 <summary><strong> SQL 첫걸음 </strong></summary>
