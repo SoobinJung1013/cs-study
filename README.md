@@ -4,8 +4,6 @@
 
 - [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
 
-<br/>
-
 ### 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
 
 <details markdown="1">
