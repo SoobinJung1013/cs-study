@@ -2,7 +2,7 @@
 
 - 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
 
-- ⚙️ 🛠 [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
+- ⚙️ [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
 
 - 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
 
