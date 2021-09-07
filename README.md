@@ -4,7 +4,7 @@
 
 - [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
 
-<br/><br/>
+<br/>
 
 ### 🕸 **Network**
 
@@ -40,7 +40,7 @@
 
 </details>
 
-<br/><br/>
+<br/>
 
 ### ⚙️ 🛠 **OS**
 
@@ -60,7 +60,7 @@
 
 </details>
 
-<br/><br/>
+<br/>
 
 ### 🧳 **DB**
 
