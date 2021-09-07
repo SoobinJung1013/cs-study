@@ -1,4 +1,4 @@
-### 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
+## 🧳 **DB**
 
 <details markdown="1">
 <summary><strong> SQL 첫걸음 </strong></summary>

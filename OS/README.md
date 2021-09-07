@@ -1,4 +1,4 @@
-### ⚙️ 🛠 [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
+## ⚙️ **OS**
 
 <details markdown="1">
 <summary><strong> Operating System Concept </strong></summary>

@@ -1,4 +1,4 @@
-### 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
+## 🕸 **Network**
 
 <details markdown="1">
 <summary><strong> 모두의 네트워크 </strong></summary>
