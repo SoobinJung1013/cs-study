@@ -1,9 +1,5 @@
 ## 🌕 CS-Study & Interview
 
-- [CS-Study Group Repository](https://github.com/EunjiShin/CS-study)
-
-- [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
-
 ### 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
 
 <details markdown="1">
@@ -93,6 +89,12 @@
 ---
 
 </details>
+
+#### Study Group
+
+- [CS-Study Group Repository](https://github.com/EunjiShin/CS-study)
+
+- [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
 
 <!--
 ### Coding Interview 참고 자료
