@@ -1,6 +1,6 @@
-## 🌕 CS-Study & Interview
+# 🌕 CS-Study & Interview
 
-### 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
+## 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
 
 <details markdown="1">
 <summary><strong> 모두의 네트워크 </strong></summary>
@@ -34,7 +34,7 @@
 
 </details>
 
-### ⚙️ 🛠 [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
+## ⚙️ 🛠 [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
 
 <details markdown="1">
 <summary><strong> Operating System Concept </strong></summary>
@@ -52,7 +52,7 @@
 
 </details>
 
-### 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
+## 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
 
 <details markdown="1">
 <summary><strong> SQL 첫걸음 </strong></summary>
@@ -88,7 +88,7 @@
 
 <br/>
 
-#### 📚 Study Group
+### 📚 Study Group
 
 - [CS-Study Group Repository](https://github.com/EunjiShin/CS-study)
 
