@@ -34,8 +34,6 @@
 
 </details>
 
-<br/>
-
 ### ⚙️ 🛠 [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
 
 <details markdown="1">
@@ -53,8 +51,6 @@
 ---
 
 </details>
-
-<br/>
 
 ### 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
 
@@ -90,7 +86,9 @@
 
 </details>
 
-#### Study Group
+<br/>
+
+#### 📚 Study Group
 
 - [CS-Study Group Repository](https://github.com/EunjiShin/CS-study)
 
