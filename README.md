@@ -251,7 +251,7 @@
      | 26  |      네이티브 앱 & 웹 앱 & 하이브리드 앱       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
      | 27  |            PWA(Progressive Web App)            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
 
-      ---
+     
 
     </details>
 
