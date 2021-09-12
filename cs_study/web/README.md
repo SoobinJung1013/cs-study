@@ -1,0 +1,29 @@
+## 🫀 Web
+
+- HTTP Method
+- RESTFul API 란?
+- 브라우저의 작동 원리
+- DOM(Document Object Model)
+  - Event Bubbling and Capturing
+  - Event delegation
+- CSS Selector 우선순위
+- Reflow&Repaint
+- CORS
+- 크로스 브라우징
+- 웹 성능 최적화
+- 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링
+- CSS Methodology
+- Normalize.css vs Reset.css
+- 웹 컴포넌트
+- 쿠키(Cookie) & 세션(Session)
+- 웹 서버와 WAS의 차이점
+- OAuth
+- JWT(JSON Web Token)
+- Authentication & Authorization
+- 로그 레벨
+- UI와 UX
+- Vue.js
+- React
+- Vue.js vs React.js
+- 네이티브 앱 & 웹 앱 & 하이브리드 앱
+- PWA(Progressive Web App)

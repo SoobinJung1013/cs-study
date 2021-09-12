@@ -170,7 +170,7 @@
 - 네이티브 앱 & 웹 앱 & 하이브리드 앱
 - PWA(Progressive Web App)
 
-# 😵 CS Group Study Folder
+# 💕 [CS Group Study Folder](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
 
 - 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/Network)
 
