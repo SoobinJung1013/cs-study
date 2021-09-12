@@ -32,7 +32,7 @@
 - 🌱 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !!  </strong></summary>
 
   | num |               주제               |                                         공부기록                                          |
   | :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -53,7 +53,7 @@
 - 🌱 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !!  </strong></summary>
 
   | num |                 주제                  |                                         공부기록                                          |
   | :-: | :-----------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -73,7 +73,7 @@
 - 🌱 [OS](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !! </strong></summary>
 
   | num |                주제                 |                                         공부기록                                          |
   | :-: | :---------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -100,7 +100,7 @@
 - 🌱 [DB](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !!</strong></summary>
 
   | num |                      주제                       |                                         공부기록                                          |
   | :-: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -122,7 +122,7 @@
 - 🌱 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !!  </strong></summary>
 
   | num |           주제            |                                         공부기록                                          |
   | :-: | :-----------------------: | :---------------------------------------------------------------------------------------: |
@@ -141,7 +141,7 @@
 - 🌱 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !! </strong></summary>
 
   | num |               주제               |                                         공부기록                                          |
   | :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -172,7 +172,7 @@
   - Java
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !! </strong></summary>
 
     | num |                 주제                  |                                         공부기록                                          |
     | :-: | :-----------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -200,7 +200,7 @@
 - Javascript
 
 <details markdown="1">
-<summary><strong> Click here !! 👀 </strong></summary>
+<summary><strong> Click here !! </strong></summary>
 
 | num |       주제        |                                         공부기록                                          |
 | :-: | :---------------: | :---------------------------------------------------------------------------------------: |
@@ -218,42 +218,42 @@
 
 - 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
-    <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+<details markdown="1">
+<summary><strong> Click here !!  </strong></summary>
 
-  | num |                      주제                      |                                         공부기록                                          |
-  | :-: | :--------------------------------------------: | :---------------------------------------------------------------------------------------: |
-  |  1  |                  HTTP Method                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  2  |                RESTFul API 란?                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  3  |              브라우저의 작동 원리              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  4  |           DOM(Document Object Model)           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  5  |          Event Bubbling and Capturing          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  6  |                Event delegation                | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  7  |             CSS Selector 우선순위              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  8  |                 Reflow&Repaint                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  |  9  |                      CORS                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 10  |                크로스 브라우징                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 11  |                 웹 성능 최적화                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 12  | 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 13  |                CSS Methodology                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 14  |           Normalize.css vs Reset.css           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 15  |                  웹 컴포넌트                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 16  |          쿠키(Cookie) & 세션(Session)          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 13  |             웹 서버와 WAS의 차이점             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 14  |                     OAuth                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 15  |              JWT(JSON Web Token)               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 16  |         Authentication & Authorization         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 17  |                   로그 레벨                    | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 18  |                    UI와 UX                     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 19  |                     Vue.js                     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 20  |                     React                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 21  |               Vue.js vs React.js               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 22  |      네이티브 앱 & 웹 앱 & 하이브리드 앱       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-  | 23  |            PWA(Progressive Web App)            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| num |                      주제                      |                                         공부기록                                          |
+| :-: | :--------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |                  HTTP Method                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |                RESTFul API 란?                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |              브라우저의 작동 원리              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |           DOM(Document Object Model)           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |          Event Bubbling and Capturing          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |                Event delegation                | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |             CSS Selector 우선순위              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |                 Reflow&Repaint                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  |                      CORS                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 10  |                크로스 브라우징                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 11  |                 웹 성능 최적화                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 12  | 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 13  |                CSS Methodology                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 14  |           Normalize.css vs Reset.css           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 15  |                  웹 컴포넌트                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 16  |          쿠키(Cookie) & 세션(Session)          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 13  |             웹 서버와 WAS의 차이점             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 14  |                     OAuth                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 15  |              JWT(JSON Web Token)               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 16  |         Authentication & Authorization         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 17  |                   로그 레벨                    | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 18  |                    UI와 UX                     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 19  |                     Vue.js                     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 20  |                     React                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 21  |               Vue.js vs React.js               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 22  |      네이티브 앱 & 웹 앱 & 하이브리드 앱       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 23  |            PWA(Progressive Web App)            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
 
-  ***
+---
 
-    </details>
+</details>
 
 # 🦋 [CS Group Study Folder](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
 
