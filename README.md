@@ -6,7 +6,7 @@
 
 # 🦋 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
-### 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
+- 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -169,7 +169,7 @@
 
 ### 🌱 [Language](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/language)
 
-#### \* Java
+#### - Java
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -197,7 +197,7 @@
 
 </details>
 
-### \* Javascript
+### - Javascript
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -255,7 +255,7 @@
 
 </details>
 
-# 💕 [CS Group Study Folder](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
+# 🦋 [CS Group Study Folder](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
 
 - 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/Network)
 
@@ -265,7 +265,7 @@
 
 <br/>
 
-### 🙄 Coding Interview 참고 자료
+# 🦋 Coding Interview 참고 자료
 
 - [메인](https://github.com/Songwonseok/CS-Study)
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : tech-interview-for-developer

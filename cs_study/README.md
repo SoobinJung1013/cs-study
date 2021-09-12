@@ -163,7 +163,7 @@
 
 ### 🌱 [Language](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/language)
 
-#### \* Java
+#### - Java
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -191,7 +191,7 @@
 
 </details>
 
-### \* Javascript
+### - Javascript
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
