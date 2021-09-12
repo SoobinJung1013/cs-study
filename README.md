@@ -2,7 +2,7 @@
 
 - 학습주제 : [Songwonseok](https://github.com/Songwonseok/CS-Study)참고
 
-# 🧠 CS Personal Study Folder
+# [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
 - [개발상식](#-개발상식)
 - [Data Structure](#-data-structure)
@@ -16,7 +16,7 @@
   - Javascript
 - [Web](#-web)
 
-## 🫀 개발상식
+# 🫀 개발상식
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -39,10 +39,10 @@
 
 </details>
 
-## 🫀 Data Structure
+# 🫀 Data Structure
 
 <details markdown="1">
-<summary><strong> Click !! </strong></summary>
+<summary><strong> Click here !! 👀 </strong></summary>
 
 | num |               주제               |                                         공부기록                                          |
 | :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -60,16 +60,25 @@
 
 </details>
 
-## 🫀 Network
+# 🫀 Network
 
-- OSI 7 계층
-- TCP 3 way handshake & 4 way handshake
-- TCP/IP 흐름제어 & 혼잡제어
-- TCPvsUDP
-- 대칭키 & 공개키
-- HTTP & HTTPS
-- 로드 밸런싱(Load Balancing)
-- Blocking & Non-Blocking I/O
+<details markdown="1">
+<summary><strong> Click here !! 👀 </strong></summary>
+
+| num |                 주제                  |                                         공부기록                                          |
+| :-: | :-----------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |              OSI 7 계층               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  | TCP 3 way handshake & 4 way handshake | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |      TCP/IP 흐름제어 & 혼잡제어       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |               TCPvsUDP                | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |            대칭키 & 공개키            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |             HTTP & HTTPS              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |      로드 밸런싱(Load Balancing)      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  |      Blocking & Non-Blocking I/O      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
+
+</details>
 
 ## 🫀 OS
 
