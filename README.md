@@ -1,6 +1,6 @@
 ### 👇🏻 학습 주제
 
-- 📍 [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
+- 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고 🙏🏻✨
 
 <br/>
 
@@ -221,7 +221,7 @@
     <details markdown="1">
     <summary><strong> Click here !!  </strong></summary>
 
-        | num |                      주제                      |                                         공부기록                                          |
+     | num |                      주제                      |                                         공부기록                                          |
         | :-: | :--------------------------------------------: | :---------------------------------------------------------------------------------------: |
         |  1  |                  HTTP Method                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
         |  2  |                RESTFul API 란?                 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
