@@ -1,8 +1,20 @@
 # 👇🏻 학습 주제
 
-학습주제는 [Songwonseok](https://github.com/Songwonseok/CS-Study)을 참고했습니다.
+- 학습주제 : [Songwonseok](https://github.com/Songwonseok/CS-Study)참고
 
 # 🧠 CS Personal Study Folder
+
+1. 개발상식
+2. Data Structure
+3. Network
+4. OS
+5. DB
+6. Design Patterns
+7. Algorithm
+8. Language
+   1. Java
+   2. Javascript
+9. Web
 
 ## 🫀 개발상식
 
