@@ -4,12 +4,12 @@
 
 # 🧠 CS Personal Study Folder
 
-1. 개발상식
-2. Data Structure
+1. [개발상식](#-개발상식)
+2. [Data Structure]()
 3. Network
 4. OS
 5. DB
-6. Design Patterns
+6. Design Pattern
 7. Algorithm
 8. Language
    1. Java
@@ -31,7 +31,7 @@
 - Generic
 - final
 
-## 🫀 자료구조
+## 🫀 Data Structure
 
 - Array & ArrayList & LinkedList
 - 스택(Stack) & 큐(Queue
@@ -41,7 +41,7 @@
 - 트라이(Trie)
 - B-Tree & B+Tree
 
-## 🫀 네트워크
+## 🫀 Network
 
 - OSI 7 계층
 - TCP 3 way handshake & 4 way handshake
@@ -52,7 +52,7 @@
 - 로드 밸런싱(Load Balancing)
 - Blocking & Non-Blocking I/O
 
-## 🫀 운영체제
+## 🫀 OS
 
 - 운영체제란?
 - 프로세스 vs 스레드
@@ -70,7 +70,7 @@
 - 메모리(Memory)
 - 파일 시스템
 
-## 🫀 데이터베이스
+## 🫀 DB
 
 - 키(Key) 정리
 - SQL - JOIN
