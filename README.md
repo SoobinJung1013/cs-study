@@ -2,7 +2,9 @@
 
 - 📍 [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
 
-# 🟡 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
+<br/><br/>
+
+# 🦋 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
 ### 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
