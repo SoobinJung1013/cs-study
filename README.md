@@ -37,6 +37,8 @@
 
 ---
 
+</details>
+
 ## 🫀 Data Structure
 
 - Array & ArrayList & LinkedList
