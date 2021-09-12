@@ -1,18 +1,6 @@
-# 🌕 CS-Study & Interview
+# 😵 CS Personal Study Folder
 
-- 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/Network)
-
-- ⚙️ [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/OS)
-
-- 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/DB)
-
-<br/>
-
-### 📚 Study Group
-
-- [CS-Study Group Repository](https://github.com/EunjiShin/CS-study)
-
-- [Personal Study Records \_ Judy](https://github.com/SoobinJung1013/cs-study)
+# 😵 CS Group Study Folder
 
 ### 🙄 Coding Interview 참고 자료
 
