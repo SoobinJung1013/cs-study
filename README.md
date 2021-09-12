@@ -5,16 +5,16 @@
 # 🧠 CS Personal Study Folder
 
 1. [개발상식](#-개발상식)
-2. [Data Structure]()
-3. Network
-4. OS
-5. DB
-6. Design Pattern
-7. Algorithm
-8. Language
+2. [Data Structure](#-data-structure)
+3. [Network](#-network)
+4. [OS](#-os)
+5. [DB](#-db)
+6. [Design Pattern](#-design-pattern)
+7. [Algorithm](#-algorithm)
+8. [Language](#-algorithm)
    1. Java
    2. Javascript
-9. Web
+9. [Web](#-web)
 
 ## 🫀 개발상식
 
