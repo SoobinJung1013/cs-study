@@ -80,49 +80,95 @@
 
 </details>
 
-## 🫀 OS
+# 🫀 OS
 
-- 운영체제란?
-- 프로세스 vs 스레드
-- 프로세스 주소 공간
-- 인터럽트(Interrupt)
-- 시스템 콜(System Call)
-- PCB와 Context Switching
-- IPC(Inter Process Communication)
-- CPU 스케줄링
-- 데드락(DeadLock)
-- Race Condition
-- 세마포어(Semaphore) & 뮤텍스(Mutex)
-- 페이징 & 세그먼테이션
-- 페이지 교체 알고리즘
-- 메모리(Memory)
-- 파일 시스템
+<details markdown="1">
+<summary><strong> Click here !! 👀 </strong></summary>
+
+| num |                주제                 |                                         공부기록                                          |
+| :-: | :---------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |             운영체제란?             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |         프로세스 vs 스레드          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |         프로세스 주소 공간          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |         인터럽트(Interrupt)         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |       시스템 콜(System Call)        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |       PCB와 Context Switching       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |  IPC(Inter Process Communication)   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |            CPU 스케줄링             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  |          데드락(DeadLock)           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 10  |           Race Condition            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 11  | 세마포어(Semaphore) & 뮤텍스(Mutex) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 12  |        페이징 & 세그먼테이션        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 13  |        페이지 교체 알고리즘         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 14  |           메모리(Memory)            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 15  |             파일 시스템             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
+
+</details>
 
 ## 🫀 DB
 
-- 키(Key) 정리
-- SQL - JOIN
-- SQL Injection
-- SQL vs NoSQL
-- 이상(Anomaly)
-- 정규화
-- 인덱스(INDEX)
-- 트랜잭션(Transaction)
-- 트랜잭션 격리 수준(Transaction Isolation Level)
-- 레디스(Redis)
+<details markdown="1">
+<summary><strong> Click here !! 👀 </strong></summary>
 
-## 🫀Design Pattern
+| num |                      주제                       |                                         공부기록                                          |
+| :-: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |                  키(Key) 정리                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |                   SQL - JOIN                    | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |                  SQL Injection                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |                  SQL vs NoSQL                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |                  이상(Anomaly)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |                     정규화                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |                  인덱스(INDEX)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |              트랜잭션(Transaction)              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  | 트랜잭션 격리 수준(Transaction Isolation Level) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 10  |                  레디스(Redis)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
 
-- 디자인패턴 개요(Overview)
-- 어댑터 패턴
-- 싱글톤 패턴
-- 탬플릿 메소드 패턴
-- 팩토리 메소드 패턴
-- 옵저버 패턴
-- 스트레티지 패턴
+---
 
-## 🫀 Algorithm
+</details>
 
+# 🫀Design Pattern
+
+<details markdown="1">
+<summary><strong> Click here !! 👀 </strong></summary>
+
+| num |           주제            |                                         공부기록                                          |
+| :-: | :-----------------------: | :---------------------------------------------------------------------------------------: |
+|  1  | 디자인패턴 개요(Overview) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |        어댑터 패턴        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |        싱글톤 패턴        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |    탬플릿 메소드 패턴     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |    팩토리 메소드 패턴     | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |        옵저버 패턴        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |      스트레티지 패턴      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
+
+</details>
+
+# 🫀 Algorithm
+
+<details markdown="1">
+<summary><strong> Click here !! 👀 </strong></summary>
+
+| num |                      주제                       |                                         공부기록                                          |
+| :-: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |                  키(Key) 정리                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |                   SQL - JOIN                    | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |                  SQL Injection                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |                  SQL vs NoSQL                   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |                  이상(Anomaly)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |                     정규화                      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |                  인덱스(INDEX)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |              트랜잭션(Transaction)              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  | 트랜잭션 격리 수준(Transaction Isolation Level) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 10  |                  레디스(Redis)                  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
+
+</details>
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
 - 삽입 정렬(Insertion Sort)
