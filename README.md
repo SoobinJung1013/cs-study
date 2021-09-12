@@ -9,7 +9,7 @@
 - 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
     <details markdown="1">
-    <summary><strong> Click here !! 👀 </strong></summary>
+    <summary><strong> Click here !! </strong></summary>
 
   | num |               주제               |                                         공부기록                                          |
   | :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
