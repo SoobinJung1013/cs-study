@@ -17,7 +17,7 @@
   - Javascript
 - [Web](#-web) -->
 
-### 🫀 개발상식
+### 🫀 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -40,7 +40,7 @@
 
 </details>
 
-### 🫀 Data Structure
+### 🫀 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -61,7 +61,7 @@
 
 </details>
 
-### 🫀 Network
+### 🫀 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -81,7 +81,7 @@
 
 </details>
 
-### 🫀 OS
+### 🫀 [OS](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -108,7 +108,7 @@
 
 </details>
 
-### 🫀 DB
+### 🫀 [DB](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -130,7 +130,7 @@
 
 </details>
 
-### 🫀Design Pattern
+### 🫀 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -149,7 +149,7 @@
 
 </details>
 
-### 🫀 Algorithm
+### 🫀 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -178,7 +178,7 @@
 
 </details>
 
-### 🫀 Language
+### 🫀 [Language](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/language)
 
 #### \* Java
 
@@ -227,7 +227,7 @@
 
 </details>
 
-### 🫀 Web
+### 🫀 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
