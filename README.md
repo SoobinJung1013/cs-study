@@ -2,7 +2,7 @@
 
 학습주제는 [Songwonseok](https://github.com/Songwonseok/CS-Study)을 참고했습니다.
 
-# 🫀 CS Personal Study Folder
+# 🧠 CS Personal Study Folder
 
 ## 🫀 개발상식
 
