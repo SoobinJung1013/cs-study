@@ -18,18 +18,24 @@
 
 ## 🫀 개발상식
 
-- 클린코드 & 리팩토링 & 시큐어코딩
-- 애자일(Agile) 정리
-- TDD(Test Driven Development)
-- 객체 지향 프로그래밍
-- 함수형 프로그래밍
-- 함수형 프로그래밍
-- 데브옵스(DevOps)
-- 서드 파티(3rd party)란?
-- Git 과 GitHub 에 대해서
-- 정규식
-- Generic
-- final
+<details markdown="1">
+<summary><strong> Click !! </strong></summary>
+
+| num |               주제               |                                         공부기록                                          |
+| :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  | 클린코드 & 리팩토링 & 시큐어코딩 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |        애자일(Agile) 정리        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |   TDD(Test Driven Development)   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  |       객체 지향 프로그래밍       | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |        함수형 프로그래밍         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |         데브옵스(DevOps)         | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |     서드 파티(3rd party)란?      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |     Git 과 GitHub 에 대해서      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  |              정규식              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 10  |             Generic              | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+| 11  |              final               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
 
 ## 🫀 Data Structure
 
