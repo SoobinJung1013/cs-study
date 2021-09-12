@@ -17,7 +17,7 @@
   - Javascript
 - [Web](#-web) -->
 
-# 🫀 개발상식
+### 🫀 개발상식
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -40,7 +40,7 @@
 
 </details>
 
-# 🫀 Data Structure
+### 🫀 Data Structure
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -61,7 +61,7 @@
 
 </details>
 
-# 🫀 Network
+### 🫀 Network
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -81,7 +81,7 @@
 
 </details>
 
-# 🫀 OS
+### 🫀 OS
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -108,7 +108,7 @@
 
 </details>
 
-## 🫀 DB
+### 🫀 DB
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -130,7 +130,7 @@
 
 </details>
 
-# 🫀Design Pattern
+### 🫀Design Pattern
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -149,7 +149,7 @@
 
 </details>
 
-# 🫀 Algorithm
+### 🫀 Algorithm
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
