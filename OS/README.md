@@ -5,7 +5,7 @@
 
 | week |      주제       |                                         공부기록                                          |
 | :--: | :-------------: | :---------------------------------------------------------------------------------------: |
-|  1   | 네트워크 첫걸음 | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  1   | OS Introduction | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
 
 ---
 
