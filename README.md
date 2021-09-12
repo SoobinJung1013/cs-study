@@ -16,6 +16,7 @@
 
 ### 🙄 Coding Interview 참고 자료
 
+- [메인](https://github.com/Songwonseok/CS-Study)
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : tech-interview-for-developer
 - [WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview) : READY FOR TECH INTERVIEW
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) : coding interview university
