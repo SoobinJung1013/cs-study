@@ -4,6 +4,7 @@
 
 # 🟡 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
+<!--
 - [개발상식](#-개발상식)
 - [Data Structure](#-data-structure)
 - [Network](#-network)
@@ -14,7 +15,7 @@
 - [Language](#-algorithm)
   - Java
   - Javascript
-- [Web](#-web)
+- [Web](#-web) -->
 
 # 🫀 개발상식
 
