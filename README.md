@@ -197,24 +197,24 @@
 
     </details>
 
-- Javascript
+    - Javascript
 
-<details markdown="1">
-<summary><strong> Click here !! </strong></summary>
+    <details markdown="1">
+    <summary><strong> Click here !! </strong></summary>
 
-| num |       주제        |                                         공부기록                                          |
-| :-: | :---------------: | :---------------------------------------------------------------------------------------: |
-|  1  |   JS Event Loop   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  2  |     Hoisting      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  3  |     JS Scope      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  4  |      Closure      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  5  |       this        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  6  |      Promise      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
-|  7  | ECMAScript6(=ES6) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    | num |       주제        |                                         공부기록                                          |
+    | :-: | :---------------: | :---------------------------------------------------------------------------------------: |
+    |  1  |   JS Event Loop   | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  2  |     Hoisting      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  3  |     JS Scope      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  4  |      Closure      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  5  |       this        | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  6  |      Promise      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+    |  7  | ECMAScript6(=ES6) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
 
----
+    ***
 
-</details>
+    </details>
 
 - 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
