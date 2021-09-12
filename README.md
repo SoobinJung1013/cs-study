@@ -1,6 +1,4 @@
-### 👇🏻 학습 주제
-
-- 📍 [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
+### 📍 학습 주제 : [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
 
 # 🟡 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
