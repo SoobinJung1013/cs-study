@@ -19,7 +19,7 @@
 ## 🫀 개발상식
 
 <details markdown="1">
-<summary><strong> Click !! </strong></summary>
+<summary><strong> Click here !! 👀 </strong></summary>
 
 | num |               주제               |                                         공부기록                                          |
 | :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -41,13 +41,24 @@
 
 ## 🫀 Data Structure
 
-- Array & ArrayList & LinkedList
-- 스택(Stack) & 큐(Queue
-- 힙(Heap)
-- 이진탐색트리(Binary Search Tree)
-- 해시(Hash)
-- 트라이(Trie)
-- B-Tree & B+Tree
+<details markdown="1">
+<summary><strong> Click !! </strong></summary>
+
+| num |               주제               |                                         공부기록                                          |
+| :-: | :------------------------------: | :---------------------------------------------------------------------------------------: |
+|  1  |  Array & ArrayList & LinkedList  | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  2  |     스택(Stack) & 큐(Queue)      | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  3  |             힙(Heap)             | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  4  | 이진탐색트리(Binary Search Tree) | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  5  |            해시(Hash)            | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  6  |           트라이(Trie)           | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  7  |         B-Tree & B+Tree          | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  8  |               Tree               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+|  9  |              Graph               | [ㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/OS/OperatingSystemConcept/1.md) |
+
+---
+
+</details>
 
 ## 🫀 Network
 
