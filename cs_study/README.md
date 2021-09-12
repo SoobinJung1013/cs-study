@@ -1,6 +1,6 @@
 ## 🦋 [go to README.md](https://github.com/SoobinJung1013/cs-study)
 
-### 🫀 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
+### 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -23,7 +23,7 @@
 
 </details>
 
-### 🫀 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
+### 🌱 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -44,7 +44,7 @@
 
 </details>
 
-### 🫀 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
+### 🌱 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -64,7 +64,7 @@
 
 </details>
 
-### 🫀 [OS](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os)
+### 🌱 [OS](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -91,7 +91,7 @@
 
 </details>
 
-### 🫀 [DB](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
+### 🌱 [DB](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -113,7 +113,7 @@
 
 </details>
 
-### 🫀 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
+### 🌱 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -132,7 +132,7 @@
 
 </details>
 
-### 🫀 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
+### 🌱 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
@@ -161,7 +161,7 @@
 
 </details>
 
-### 🫀 [Language](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/language)
+### 🌱 [Language](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/language)
 
 #### \* Java
 
@@ -210,7 +210,7 @@
 
 </details>
 
-### 🫀 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
+### 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
 <details markdown="1">
 <summary><strong> Click here !! 👀 </strong></summary>
