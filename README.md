@@ -264,7 +264,7 @@
 
 <br/>
 
-# 🦋 [JAVA](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
+# 🦋 [JAVA](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
 
 # 🦋 Coding Interview 참고 자료
 
