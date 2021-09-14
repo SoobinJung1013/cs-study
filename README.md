@@ -1,6 +1,7 @@
 ### 👇🏻 학습 주제
 
 - 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고 🙏🏻✨
+- 📍 [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
 
 <br/>
 
@@ -14,9 +15,9 @@
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
   |  1  | 클린코드 & 리팩토링 & 시큐어코딩 |    🟢    |
-  |  2  |        애자일(Agile) 정리        |    🔴    |
+  |  2  |        애자일(Agile) 정리        |    🟢    |
   |  3  |   TDD(Test Driven Development)   |    🟢    |
-  |  4  |       객체 지향 프로그래밍       |    🔴    |
+  |  4  |       객체 지향 프로그래밍       |    🟢    |
   |  5  |        함수형 프로그래밍         |    🔴    |
   |  6  |         데브옵스(DevOps)         |    🔴    |
   |  7  |     서드 파티(3rd party)란?      |    🔴    |
