@@ -438,3 +438,10 @@ _ThreadLocal 을 사용하는 방법은 간단하다._
 </br>
 
 _Java.end_
+
+# 3
+
+- [신입개발자 기술면접 #1 - Java 질문 모음](https://sas-study.tistory.com/53)
+- [상위 50 개 이상의 핵심 Java 인터뷰 질문 및 답변](https://ko.myservername.com/top-50-core-java-interview-questions)
+- [기술 면접 대비하기 : Java편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html)
+- [Java 기술 면접 질문](https://coinco.tistory.com/157)

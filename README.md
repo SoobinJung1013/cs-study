@@ -282,3 +282,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 개발자 로드맵
 - [oaksong/developers-retrospective](https://github.com/oaksong/developers-retrospective) : 개발자 회고 모음
 - [jojoldu/junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler) : 주니어 개발자를 위한 **채용 공고**
+
+### 채용공고 \_ 심심할때 보삼
+
+- [카카오 채용공고](https://careers.kakao.com/jobs)
