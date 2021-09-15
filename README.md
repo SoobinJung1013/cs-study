@@ -113,10 +113,10 @@
   |  2  | TCP 3 way handshake & 4 way handshake |    🔴    |
   |  3  |      TCP/IP 흐름제어 & 혼잡제어       |    🔴    |
   |  4  |               TCPvsUDP                |    🔴    |
-  |  6  |            대칭키 & 공개키            |    🔴    |
-  |  7  |             HTTP & HTTPS              |    🔴    |
-  |  8  |      로드 밸런싱(Load Balancing)      |    🔴    |
-  |  9  |      Blocking & Non-Blocking I/O      |    🔴    |
+  |  5  |            대칭키 & 공개키            |    🔴    |
+  |  6  |             HTTP & HTTPS              |    🔴    |
+  |  7  |      로드 밸런싱(Load Balancing)      |    🔴    |
+  |  8  |      Blocking & Non-Blocking I/O      |    🔴    |
 
   ***
 
