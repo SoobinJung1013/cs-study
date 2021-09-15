@@ -31,6 +31,25 @@
 
     </details>
 
+- 🌱 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
+
+    <details markdown="1">
+    <summary><strong> Click here !!  </strong></summary>
+
+  | num |           주제            | 공부기록 |
+  | :-: | :-----------------------: | :------: |
+  |  1  | 디자인패턴 개요(Overview) |    🔴    |
+  |  2  |        어댑터 패턴        |    🔴    |
+  |  3  |        싱글톤 패턴        |    🔴    |
+  |  4  |    탬플릿 메소드 패턴     |    🔴    |
+  |  5  |    팩토리 메소드 패턴     |    🔴    |
+  |  6  |        옵저버 패턴        |    🔴    |
+  |  7  |      스트레티지 패턴      |    🔴    |
+
+  ***
+
+    </details>
+
 - 🌱 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
 
     <details markdown="1">
@@ -116,25 +135,6 @@
   |  8  |              트랜잭션(Transaction)              |    🔴    |
   |  9  | 트랜잭션 격리 수준(Transaction Isolation Level) |    🔴    |
   | 10  |                  레디스(Redis)                  |    🔴    |
-
-  ***
-
-    </details>
-
-- 🌱 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
-
-    <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
-
-  | num |           주제            | 공부기록 |
-  | :-: | :-----------------------: | :------: |
-  |  1  | 디자인패턴 개요(Overview) |    🔴    |
-  |  2  |        어댑터 패턴        |    🔴    |
-  |  3  |        싱글톤 패턴        |    🔴    |
-  |  4  |    탬플릿 메소드 패턴     |    🔴    |
-  |  5  |    팩토리 메소드 패턴     |    🔴    |
-  |  6  |        옵저버 패턴        |    🔴    |
-  |  7  |      스트레티지 패턴      |    🔴    |
 
   ***
 
