@@ -71,6 +71,35 @@
 
     </details>
 
+- 🌱 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
+
+    <details markdown="1">
+    <summary><strong> Click here !! </strong></summary>
+
+  | num |               주제               | 공부기록 |
+  | :-: | :------------------------------: | :------: |
+  |  1  |      거품 정렬(Bubble Sort)      |    🔴    |
+  |  2  |    선택 정렬(Selection Sort)     |    🔴    |
+  |  3  |    삽입 정렬(Insertion Sort)     |    🔴    |
+  |  4  |       퀵 정렬(Quick Sort)        |    🔴    |
+  |  5  |      합병 정렬(Merge Sort)       |    🔴    |
+  |  6  |        힙 정렬(Heap Sort)        |    🔴    |
+  |  7  |      기수 정렬(Radix Sort)       |    🔴    |
+  |  8  |      계수 정렬(Count Sort)       |    🔴    |
+  |  9  |       비트마스크(BitMask)        |    🔴    |
+  | 10  |     이분 탐색(Binary Search)     |    🔴    |
+  | 11  |          세그먼트 트리           |    🔴    |
+  | 12  |            해시(Hash)            |    🔴    |
+  | 13  |            DFS & BFS             |    🔴    |
+  | 14  |       최장 증가 수열(LIS)        |    🔴    |
+  | 15  |       최소 공통 조상(LCA)        |    🔴    |
+  | 16  | 동적 계획법(Dynamic Programming) |    🔴    |
+  | 17  |            백트래킹?             |    🔴    |
+
+  ***
+
+    </details>
+
 - 🌱 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
 
     <details markdown="1">
@@ -140,32 +169,40 @@
 
     </details>
 
-- 🌱 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
+- 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here !!  </strong></summary>
 
-  | num |               주제               | 공부기록 |
-  | :-: | :------------------------------: | :------: |
-  |  1  |      거품 정렬(Bubble Sort)      |    🔴    |
-  |  2  |    선택 정렬(Selection Sort)     |    🔴    |
-  |  3  |    삽입 정렬(Insertion Sort)     |    🔴    |
-  |  4  |       퀵 정렬(Quick Sort)        |    🔴    |
-  |  5  |      합병 정렬(Merge Sort)       |    🔴    |
-  |  6  |        힙 정렬(Heap Sort)        |    🔴    |
-  |  7  |      기수 정렬(Radix Sort)       |    🔴    |
-  |  8  |      계수 정렬(Count Sort)       |    🔴    |
-  |  9  |       비트마스크(BitMask)        |    🔴    |
-  | 10  |     이분 탐색(Binary Search)     |    🔴    |
-  | 11  |          세그먼트 트리           |    🔴    |
-  | 12  |            해시(Hash)            |    🔴    |
-  | 13  |            DFS & BFS             |    🔴    |
-  | 14  |       최장 증가 수열(LIS)        |    🔴    |
-  | 15  |       최소 공통 조상(LCA)        |    🔴    |
-  | 16  | 동적 계획법(Dynamic Programming) |    🔴    |
-  | 17  |            백트래킹?             |    🔴    |
-
-  ***
+  | num |                      주제                      | 공부기록 |
+  | :-: | :--------------------------------------------: | :------: |
+  |  1  |                  HTTP Method                   |    🔴    |
+  |  2  |                RESTFul API 란?                 |    🔴    |
+  |  3  |              브라우저의 작동 원리              |    🔴    |
+  |  4  |           DOM(Document Object Model)           |    🔴    |
+  |  5  |          Event Bubbling and Capturing          |    🔴    |
+  |  6  |                Event delegation                |    🔴    |
+  |  7  |             CSS Selector 우선순위              |    🔴    |
+  |  8  |                 Reflow&Repaint                 |    🔴    |
+  |  9  |                      CORS                      |    🔴    |
+  | 10  |                크로스 브라우징                 |    🔴    |
+  | 11  |                 웹 성능 최적화                 |    🔴    |
+  | 12  | 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링 |    🔴    |
+  | 13  |                CSS Methodology                 |    🔴    |
+  | 14  |           Normalize.css vs Reset.css           |    🔴    |
+  | 15  |                  웹 컴포넌트                   |    🔴    |
+  | 16  |          쿠키(Cookie) & 세션(Session)          |    🔴    |
+  | 17  |             웹 서버와 WAS의 차이점             |    🔴    |
+  | 18  |                     OAuth                      |    🔴    |
+  | 19  |              JWT(JSON Web Token)               |    🔴    |
+  | 20  |         Authentication & Authorization         |    🔴    |
+  | 21  |                   로그 레벨                    |    🔴    |
+  | 22  |                    UI와 UX                     |    🔴    |
+  | 23  |                     Vue.js                     |    🔴    |
+  | 24  |                     React                      |    🔴    |
+  | 25  |               Vue.js vs React.js               |    🔴    |
+  | 26  |      네이티브 앱 & 웹 앱 & 하이브리드 앱       |    🔴    |
+  | 27  |            PWA(Progressive Web App)            |    🔴    |
 
     </details>
 
@@ -215,43 +252,6 @@
     |  7  | ECMAScript6(=ES6) |    🔴    |
 
     ***
-
-    </details>
-
-- 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
-
-    <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
-
-  | num |                      주제                      | 공부기록 |
-  | :-: | :--------------------------------------------: | :------: |
-  |  1  |                  HTTP Method                   |    🔴    |
-  |  2  |                RESTFul API 란?                 |    🔴    |
-  |  3  |              브라우저의 작동 원리              |    🔴    |
-  |  4  |           DOM(Document Object Model)           |    🔴    |
-  |  5  |          Event Bubbling and Capturing          |    🔴    |
-  |  6  |                Event delegation                |    🔴    |
-  |  7  |             CSS Selector 우선순위              |    🔴    |
-  |  8  |                 Reflow&Repaint                 |    🔴    |
-  |  9  |                      CORS                      |    🔴    |
-  | 10  |                크로스 브라우징                 |    🔴    |
-  | 11  |                 웹 성능 최적화                 |    🔴    |
-  | 12  | 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링 |    🔴    |
-  | 13  |                CSS Methodology                 |    🔴    |
-  | 14  |           Normalize.css vs Reset.css           |    🔴    |
-  | 15  |                  웹 컴포넌트                   |    🔴    |
-  | 16  |          쿠키(Cookie) & 세션(Session)          |    🔴    |
-  | 17  |             웹 서버와 WAS의 차이점             |    🔴    |
-  | 18  |                     OAuth                      |    🔴    |
-  | 19  |              JWT(JSON Web Token)               |    🔴    |
-  | 20  |         Authentication & Authorization         |    🔴    |
-  | 21  |                   로그 레벨                    |    🔴    |
-  | 22  |                    UI와 UX                     |    🔴    |
-  | 23  |                     Vue.js                     |    🔴    |
-  | 24  |                     React                      |    🔴    |
-  | 25  |               Vue.js vs React.js               |    🔴    |
-  | 26  |      네이티브 앱 & 웹 앱 & 하이브리드 앱       |    🔴    |
-  | 27  |            PWA(Progressive Web App)            |    🔴    |
 
     </details>
 
