@@ -110,10 +110,10 @@
   | num |                       주제                       | 공부기록 |
   | :-: | :----------------------------------------------: | :------: |
   |  1  |                    OSI 7 계층                    |    🟢    |
-  |  2  |      TCP 3 way handshake & 4 way handshake       |    🔴    |
-  |  3  |            TCP/IP 흐름제어 & 혼잡제어            |    🔴    |
-  |  4  |                     TCPvsUDP                     |    🔴    |
-  |  5  |                 대칭키 & 공개키                  |    🔴    |
+  |  2  |      TCP 3 way handshake & 4 way handshake       |    🟢    |
+  |  3  |            TCP/IP 흐름제어 & 혼잡제어            |    🟢    |
+  |  4  |                     TCPvsUDP                     |    🟢    |
+  |  5  |                 대칭키 & 공개키                  |    🟢    |
   |  6  |                   HTTP & HTTPS                   |    🔴    |
   |  7  |           로드 밸런싱(Load Balancing)            |    🔴    |
   |  8  |           Blocking & Non-Blocking I/O            |    🔴    |
@@ -130,13 +130,13 @@
 
   | num |                주제                 | 공부기록 |
   | :-: | :---------------------------------: | :------: |
-  |  1  |             운영체제란?             |    🔴    |
-  |  2  |         프로세스 vs 스레드          |    🔴    |
-  |  3  |         프로세스 주소 공간          |    🔴    |
-  |  4  |         인터럽트(Interrupt)         |    🔴    |
+  |  1  |             운영체제란?             |    🟢    |
+  |  2  |         프로세스 vs 스레드          |    🟢    |
+  |  3  |         프로세스 주소 공간          |    🟢    |
+  |  4  |         인터럽트(Interrupt)         |    🟢    |
   |  5  |       시스템 콜(System Call)        |    🔴    |
   |  6  |       PCB와 Context Switching       |    🔴    |
-  |  7  |  IPC(Inter Process Communication)   |    🔴    |
+  |  7  |  IPC(Inter Process Communication)   |    🟢    |
   |  8  |            CPU 스케줄링             |    🔴    |
   |  9  |          데드락(DeadLock)           |    🔴    |
   | 10  |           Race Condition            |    🔴    |
@@ -181,7 +181,7 @@
   |  5  |                  이상(Anomaly)                  |    🔴    |
   |  6  |                     정규화                      |    🔴    |
   |  7  |                  인덱스(INDEX)                  |    🔴    |
-  |  8  |              트랜잭션(Transaction)              |    🔴    |
+  |  8  |              트랜잭션(Transaction)              |    🟢    |
   |  9  | 트랜잭션 격리 수준(Transaction Isolation Level) |    🔴    |
   | 10  |                  레디스(Redis)                  |    🔴    |
 
