@@ -174,16 +174,16 @@
 
   | num |                      주제                       | 공부기록 |
   | :-: | :---------------------------------------------: | :------: |
-  |  1  |                  키(Key) 정리                   |    🔴    |
+  |  1  |                  키(Key) 정리                   |    🟢    |
   |  2  |                   SQL - JOIN                    |    🔴    |
   |  3  |                  SQL Injection                  |    🔴    |
   |  4  |                  SQL vs NoSQL                   |    🔴    |
-  |  5  |                  이상(Anomaly)                  |    🔴    |
+  |  5  |                  이상(Anomaly)                  |    🟢    |
   |  6  |                     정규화                      |    🔴    |
-  |  7  |                  인덱스(INDEX)                  |    🔴    |
+  |  7  |                  인덱스(INDEX)                  |    🟢    |
   |  8  |              트랜잭션(Transaction)              |    🟢    |
-  |  9  | 트랜잭션 격리 수준(Transaction Isolation Level) |    🔴    |
-  | 10  |                  레디스(Redis)                  |    🔴    |
+  |  9  | 트랜잭션 격리 수준(Transaction Isolation Level) |    🟢    |
+  | 10  |                  레디스(Redis)                  |   🟢ㅍ   |
 
   ***
 
