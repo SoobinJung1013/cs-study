@@ -10,7 +10,7 @@
 - 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here 👈🏻 </strong></summary>
 
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
@@ -34,7 +34,7 @@
 - 🌱 [Design Pattern](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern)
 
     <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
+    <summary><strong> Click here 👈🏻  </strong></summary>
 
   | num |           주제            | 공부기록 |
   | :-: | :-----------------------: | :------: |
@@ -55,7 +55,7 @@
 - 🌱 [Data Structure](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure)
 
     <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
+    <summary><strong> Click here 👈🏻  </strong></summary>
 
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
@@ -76,7 +76,7 @@
 - 🌱 [Algorithm](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm)
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here 👈🏻 </strong></summary>
 
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
@@ -105,7 +105,7 @@
 - 🌱 [Network](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network)
 
     <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
+    <summary><strong> Click here 👈🏻  </strong></summary>
 
   | num |                       주제                       | 공부기록 |
   | :-: | :----------------------------------------------: | :------: |
@@ -126,7 +126,7 @@
 - 🌱 [OS](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os)
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here 👈🏻 </strong></summary>
 
   | num |                주제                 | 공부기록 |
   | :-: | :---------------------------------: | :------: |
@@ -152,7 +152,7 @@
 
 - 🌱 [Computer Architecture](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
     <details markdown="1">
-    <summary><strong> Click here !!</strong></summary>
+    <summary><strong> Click here 👈🏻</strong></summary>
 
   | num |            주제             | 공부기록 |
   | :-: | :-------------------------: | :------: |
@@ -170,7 +170,7 @@
 - 🌱 [DB](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database)
 
     <details markdown="1">
-    <summary><strong> Click here !!</strong></summary>
+    <summary><strong> Click here 👈🏻</strong></summary>
 
   | num |                      주제                       | 공부기록 |
   | :-: | :---------------------------------------------: | :------: |
@@ -192,7 +192,7 @@
 - 🌱 [Web](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web)
 
     <details markdown="1">
-    <summary><strong> Click here !!  </strong></summary>
+    <summary><strong> Click here 👈🏻  </strong></summary>
 
   | num |                      주제                      | 공부기록 |
   | :-: | :--------------------------------------------: | :------: |
@@ -231,7 +231,7 @@
   - Java
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here 👈🏻 </strong></summary>
 
     | num |                 주제                  | 공부기록 |
     | :-: | :-----------------------------------: | :------: |
@@ -259,7 +259,7 @@
   - Javascript
 
     <details markdown="1">
-    <summary><strong> Click here !! </strong></summary>
+    <summary><strong> Click here 👈🏻 </strong></summary>
 
     | num |       주제        | 공부기록 |
     | :-: | :---------------: | :------: |
