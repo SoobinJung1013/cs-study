@@ -60,10 +60,10 @@
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
   |  1  |  Array & ArrayList & LinkedList  |    🔴    |
-  |  2  |     스택(Stack) & 큐(Queue)      |    🔴    |
-  |  3  |             힙(Heap)             |    🔴    |
-  |  4  | 이진탐색트리(Binary Search Tree) |    🔴    |
-  |  5  |            해시(Hash)            |    🔴    |
+  |  2  |     스택(Stack) & 큐(Queue)      |    🟢    |
+  |  3  |             힙(Heap)             |    🟢    |
+  |  4  | 이진탐색트리(Binary Search Tree) |    🟢    |
+  |  5  |            해시(Hash)            |    🟢    |
   |  6  |           트라이(Trie)           |    🔴    |
   |  7  |         B-Tree & B+Tree          |    🔴    |
   |  8  |               Tree               |    🔴    |
@@ -196,10 +196,10 @@
 
   | num |                      주제                      | 공부기록 |
   | :-: | :--------------------------------------------: | :------: |
-  |  1  |                  HTTP Method                   |    🔴    |
-  |  2  |                RESTFul API 란?                 |    🔴    |
-  |  3  |              브라우저의 작동 원리              |    🔴    |
-  |  4  |           DOM(Document Object Model)           |    🔴    |
+  |  1  |                  HTTP Method                   |    🟢    |
+  |  2  |                RESTFul API 란?                 |    🟢    |
+  |  3  |              브라우저의 작동 원리              |    🟢    |
+  |  4  |           DOM(Document Object Model)           |    🟢    |
   |  5  |          Event Bubbling and Capturing          |    🔴    |
   |  6  |                Event delegation                |    🔴    |
   |  7  |             CSS Selector 우선순위              |    🔴    |
@@ -211,13 +211,13 @@
   | 13  |                CSS Methodology                 |    🔴    |
   | 14  |           Normalize.css vs Reset.css           |    🔴    |
   | 15  |                  웹 컴포넌트                   |    🔴    |
-  | 16  |          쿠키(Cookie) & 세션(Session)          |    🔴    |
-  | 17  |             웹 서버와 WAS의 차이점             |    🔴    |
-  | 18  |                     OAuth                      |    🔴    |
-  | 19  |              JWT(JSON Web Token)               |    🔴    |
-  | 20  |         Authentication & Authorization         |    🔴    |
-  | 21  |                   로그 레벨                    |    🔴    |
-  | 22  |                    UI와 UX                     |    🔴    |
+  | 16  |          쿠키(Cookie) & 세션(Session)          |    🟢    |
+  | 17  |             웹 서버와 WAS의 차이점             |    🟢    |
+  | 18  |                     OAuth                      |    🟢    |
+  | 19  |              JWT(JSON Web Token)               |    🟢    |
+  | 20  |         Authentication & Authorization         |    🟢    |
+  | 21  |                   로그 레벨                    |    🟢    |
+  | 22  |                    UI와 UX                     |    🟢    |
   | 23  |                     Vue.js                     |    🔴    |
   | 24  |                     React                      |    🔴    |
   | 25  |               Vue.js vs React.js               |    🔴    |
@@ -304,6 +304,6 @@
 - [oaksong/developers-retrospective](https://github.com/oaksong/developers-retrospective) : 개발자 회고 모음
 - [jojoldu/junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler) : 주니어 개발자를 위한 **채용 공고**
 
-### 채용공고 \_ 심심할때 보삼
+<!-- ### 채용공고 \_ 심심할때 보삼
 
-- [카카오 채용공고](https://careers.kakao.com/jobs)
+- [카카오 채용공고](https://careers.kakao.com/jobs) -->
