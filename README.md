@@ -16,7 +16,7 @@
 
   | num |               주제               |                                    공부기록                                     |
   | :-: | :------------------------------: | :-----------------------------------------------------------------------------: |
-  |  1  | 클린코드 & 리팩토링 & 시큐어코딩 | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense] |
+  |  1  | 클린코드 & 리팩토링 & 시큐어코딩 | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense) |
   |  2  |        애자일(Agile) 정리        |                                       🟢                                        |
   |  3  |   TDD(Test Driven Development)   |                                       🟢                                        |
   |  4  |       객체 지향 프로그래밍       |                                       🟢                                        |
@@ -40,7 +40,7 @@
 
   | num |           주제            |                                     공부기록                                      |
   | :-: | :-----------------------: | :-------------------------------------------------------------------------------: |
-  |  1  | 디자인패턴 개요(Overview) | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern] |
+  |  1  | 디자인패턴 개요(Overview) | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern) |
   |  2  |        어댑터 패턴        |                                        🔴                                         |
   |  3  |        싱글톤 패턴        |                                        🔴                                         |
   |  4  |    탬플릿 메소드 패턴     |                                        🔴                                         |
@@ -61,7 +61,7 @@
 
   | num |               주제               |                                     공부기록                                      |
   | :-: | :------------------------------: | :-------------------------------------------------------------------------------: |
-  |  1  |  Array & ArrayList & LinkedList  | (🔴)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure] |
+  |  1  |  Array & ArrayList & LinkedList  | [🔴](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/dataStructure) |
   |  2  |     스택(Stack) & 큐(Queue)      |                                        🟢                                         |
   |  3  |             힙(Heap)             |                                        🟢                                         |
   |  4  | 이진탐색트리(Binary Search Tree) |                                        🟢                                         |
@@ -82,7 +82,7 @@
 
   | num |               주제               |                                   공부기록                                    |
   | :-: | :------------------------------: | :---------------------------------------------------------------------------: |
-  |  1  |      거품 정렬(Bubble Sort)      | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm] |
+  |  1  |      거품 정렬(Bubble Sort)      | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/algorithm) |
   |  2  |    선택 정렬(Selection Sort)     |                                      🟢                                       |
   |  3  |    삽입 정렬(Insertion Sort)     |                                      🟢                                       |
   |  4  |       퀵 정렬(Quick Sort)        |                                      🟢                                       |
@@ -110,7 +110,7 @@
 
   | num |                       주제                       |                                  공부기록                                   |
   | :-: | :----------------------------------------------: | :-------------------------------------------------------------------------: |
-  |  1  |                    OSI 7 계층                    | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network] |
+  |  1  |                    OSI 7 계층                    | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/network) |
   |  2  |      TCP 3 way handshake & 4 way handshake       |                                     🟢                                      |
   |  3  |            TCP/IP 흐름제어 & 혼잡제어            |                                     🟢                                      |
   |  4  |                     TCPvsUDP                     |                                     🟢                                      |
@@ -131,7 +131,7 @@
 
   | num |                주제                 |                                공부기록                                |
   | :-: | :---------------------------------: | :--------------------------------------------------------------------: |
-  |  1  |             운영체제란?             | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os] |
+  |  1  |             운영체제란?             | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/os) |
   |  2  |         프로세스 vs 스레드          |                                   🟢                                   |
   |  3  |         프로세스 주소 공간          |                                   🟢                                   |
   |  4  |         인터럽트(Interrupt)         |                                   🟢                                   |
@@ -157,7 +157,7 @@
 
   | num |            주제             |                                   공부기록                                   |
   | :-: | :-------------------------: | :--------------------------------------------------------------------------: |
-  |  1  |      컴퓨터 구조 기초       | (🔴)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database] |
+  |  1  |      컴퓨터 구조 기초       | [🔴](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database) |
   |  2  |        컴퓨터의 구성        |                                      🔴                                      |
   |  3  | 중앙처리장치(CPU) 작동 원리 |                                      🔴                                      |
   |  4  |         캐시 메모리         |                                      🔴                                      |
@@ -175,7 +175,7 @@
 
   | num |                      주제                       |                                   공부기록                                   |
   | :-: | :---------------------------------------------: | :--------------------------------------------------------------------------: |
-  |  1  |                  키(Key) 정리                   | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database] |
+  |  1  |                  키(Key) 정리                   | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/database) |
   |  2  |                   SQL - JOIN                    |                                      🟢                                      |
   |  3  |                  SQL Injection                  |                                      🔴                                      |
   |  4  |                  SQL vs NoSQL                   |                                      🔴                                      |
@@ -197,7 +197,7 @@
 
   | num |                      주제                      |                                공부기록                                 |
   | :-: | :--------------------------------------------: | :---------------------------------------------------------------------: |
-  |  1  |                  HTTP Method                   | (🟢)[https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web] |
+  |  1  |                  HTTP Method                   | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/web) |
   |  2  |                RESTFul API 란?                 |                                   🟢                                    |
   |  3  |              브라우저의 작동 원리              |                                   🟢                                    |
   |  4  |           DOM(Document Object Model)           |                                   🟢                                    |
