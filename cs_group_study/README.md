@@ -1,4 +1,4 @@
-## 🐰 [go to README.md](https://github.com/SoobinJung1013/cs-study)
+## [🧝🏻‍♀️ go to README.md](https://github.com/SoobinJung1013/cs-study)
 
 ### 📚 Study Group Repository
 

@@ -1,6 +1,6 @@
-## 🐰 [go to README.md](https://github.com/SoobinJung1013/cs-study)
+## [🧝🏻‍♀️ go to README.md](https://github.com/SoobinJung1013/cs-study)
 
-# 🦋 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
+# 🦋 CS Personal Study Folder
 
 - 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 

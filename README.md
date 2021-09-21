@@ -5,11 +5,9 @@
 - 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고 🙏🏻✨
 - 📍 [Songwonseok](https://github.com/Songwonseok/CS-Study)참고 🙏🏻✨
 
-<br/>
-
 # 🦋 CS Study
 
-#### [👩🏻‍💼 go to repository](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
+#### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
 - 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
@@ -279,7 +277,9 @@
 
     </details>
 
-# 🦋 [CS Group Study](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
+# 🦋 CS Group Study
+
+#### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
 
 - 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/Network)
 
