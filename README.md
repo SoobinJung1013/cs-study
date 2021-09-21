@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=CS%20and%20Interview&fontSize=40)
+
 ### 👇🏻 학습 주제
 
 - 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고 🙏🏻✨
