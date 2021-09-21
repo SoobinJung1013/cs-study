@@ -2,4 +2,4 @@
 
 # 🦋 CS Personal Study Folder
 
-- [click here 👈](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)🏻
+- [click here 👈](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
