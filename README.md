@@ -287,7 +287,9 @@
 
 <br/>
 
-# 🦋 [JAVA](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
+# 🦋 JAVA
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
 
 # 🦋 Coding Interview
 
