@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=CS%20and%20Interview&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=CS%20and%20Interview&fontSize=90)
 
 ### 👇🏻 학습 주제
 
@@ -7,7 +7,7 @@
 
 <br/>
 
-# 🦋 [CS Personal Study Folder](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
+# 🦋 [CS Study ](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
 - 🌱 [개발상식](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/commonSense)
 
@@ -277,7 +277,7 @@
 
     </details>
 
-# 🦋 [CS Group Study Folder](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
+# 🦋 [CS Group Study](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
 
 - 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/Network)
 
