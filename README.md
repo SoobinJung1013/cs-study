@@ -279,9 +279,9 @@
 - 🌱 [Interview](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4)
 
   - [🍄 Interview Tip](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
-
-  <details markdown="1">
-  <summary><strong> 언어_Click here 👈🏻 </strong></summary>
+  <br/>
+    <details markdown="1">
+    <summary><strong> 언어_Click here 👈🏻 </strong></summary>
 
   | num |                          주제                           | 공부기록 |
   | :-: | :-----------------------------------------------------: | :------: |
@@ -306,10 +306,10 @@
 
   ***
 
-  </details>
+    </details>
 
-  <details markdown="1">
-  <summary><strong> OS_Click here 👈🏻 </strong></summary>
+    <details markdown="1">
+    <summary><strong> OS_Click here 👈🏻 </strong></summary>
 
   | num |                              주제                               | 공부기록 |
   | :-: | :-------------------------------------------------------------: | :------: |
@@ -333,10 +333,10 @@
 
   ***
 
-  </details>
+    </details>
 
-  <details markdown="1">
-  <summary><strong> DB_Click here 👈🏻 </strong></summary>
+    <details markdown="1">
+    <summary><strong> DB_Click here 👈🏻 </strong></summary>
 
   | num |                               주제                                | 공부기록 |
   | :-: | :---------------------------------------------------------------: | :------: |
@@ -357,10 +357,10 @@
 
   ***
 
-  </details>
+    </details>
 
-  <details markdown="1">
-  <summary><strong> Network_Click here 👈🏻 </strong></summary>
+    <details markdown="1">
+    <summary><strong> Network_Click here 👈🏻 </strong></summary>
 
   | num |                        주제                        | 공부기록 |
   | :-: | :------------------------------------------------: | :------: |
@@ -376,9 +376,9 @@
 
   ***
 
-  </details>
-  <details markdown="1">
-  <summary><strong> Spring_Click here 👈🏻 </strong></summary>
+    </details>
+    <details markdown="1">
+    <summary><strong> Spring_Click here 👈🏻 </strong></summary>
 
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
@@ -394,7 +394,7 @@
 
   ***
 
-  </details>
+    </details>
 
 # 🦋 CS Group Study
 
