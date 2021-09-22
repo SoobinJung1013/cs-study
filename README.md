@@ -276,6 +276,35 @@
 
     </details>
 
+- 🌱 Interview
+    <details markdown="1">
+    <summary><strong> 언어_Click here 👈🏻 </strong></summary>
+
+  | num |                          주제                           |                                                          공부기록                                                          |
+  | :-: | :-----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+  |  1  |                   가비지 컬렉션이란 ?                   | [🟢](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4) |
+  |  2  |              Vector와 ArrayList의 차이는 ?              |                                                             🟢                                                             |
+  |  3  |             Sting과 Stringbuffer의 차이는 ?             |                                                             🟢                                                             |
+  |  4  |                   Serialization이란 ?                   |                                                             🟢                                                             |
+  |  5  |                 Java의 메모리 영역은 ?                  |                                                             🟢                                                             |
+  |  6  |             오버로딩과 오버라이딩 차이는 ?              |                                                             🟢                                                             |
+  |  7  |            추상클래스와 인터페이스 차이는 ?             |                                                             🟢                                                             |
+  |  8  |                      제네릭이란 ?                       |                                                             🟢                                                             |
+  |  9  |                    접근 지정자 4가지                    |                                                             🟢                                                             |
+  | 10  |           Call by Value vs Call by Reference            |                                                             🟢                                                             |
+  | 11  |               배열과 연결리스트 차이는 ?                |                                                             🔴                                                             |
+  | 12  |                        Hash란 ?                         |                                                             🔴                                                             |
+  | 13  |                    Java 컴파일 과정                     |                                                             🔴                                                             |
+  | 14  |                      C++ 실행과정                       |                                                             🔴                                                             |
+  | 15  |     메모리, 성능을 개선하기 위해 생각나는 방법은 ?      |                                                             🔴                                                             |
+  | 16  |               클래스와 구조체의 차이는 ?                |                                                             🔴                                                             |
+  | 17  | 스레드는 어떤 방식으로 생성하나요 ? 장단점도 말해주세요 |                                                             🔴                                                             |
+  | 18  |          포인터를 이해하기 쉽도록 설명해주세요          |                                                             🔴                                                             |
+
+  ***
+
+    </details>
+
 # 🦋 CS Group Study
 
 #### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
