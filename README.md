@@ -9,7 +9,7 @@
 
 #### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
-- 🌱 개발상식
+- 🌱 [개발상식](https://github.com/gyoogle/tech-interview-for-developer#software-engineering)
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻 </strong></summary>
