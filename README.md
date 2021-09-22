@@ -305,6 +305,33 @@
 
     </details>
 
+    <details markdown="1">
+    <summary><strong> OS_Click here 👈🏻 </strong></summary>
+
+  | num |                              주제                               |                                                              공부기록                                                              |
+  | :-: | :-------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+  |  1  |                     프로세스와 스레드 차이                      | [🟢](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C) |
+  |  2  | 멀티 프로세스로 처리 가능한 걸 굳이 멀티 스레드로 하는 이유는 ? |                                                                 🟢                                                                 |
+  |  3  |         교착상태 (DeadLock)가 무엇이며, 4가지 조건은 ?          |                                                                 🟢                                                                 |
+  |  4  |                    교착상태 해결 방법 4가지                     |                                                                 🟢                                                                 |
+  |  5  |                    메모리 계층 (상 -하층 순)                    |                                                                 🟢                                                                 |
+  |  6  |     메모리 할당 알고리즘 First fir, Next fit, Best fit 결과     |                                                                 🟢                                                                 |
+  |  7  |          페이지 교체 알고리즘에 따른 페이지 폴트 방식           |                                                                 🟢                                                                 |
+  |  8  |                  외부 단편화와 내부 단편화란 ?                  |                                                                 🟢                                                                 |
+  |  9  |                         가상 메모리란 ?                         |                                                                 🟢                                                                 |
+  | 10  |                   페이징과 세그멘테이션이란 ?                   |                                                                 🟢                                                                 |
+  | 11  |               뮤텍스, 세마포어가 뭔지, 차이점은 ?               |                                                                 🔴                                                                 |
+  | 12  |                     Context Switching이란 ?                     |                                                                 🔴                                                                 |
+  | 13  |         사용자 수준 스레드 vs 커널 수준 스레드 차이는 ?         |                                                                 🔴                                                                 |
+  | 14  |                         가상메모리란 ?                          |                                                                 🔴                                                                 |
+  | 15  |                  fork()와 vfork()의 차이점은 ?                  |                                                                 🔴                                                                 |
+  | 16  |                       Race Condition이란?                       |                                                                 🔴                                                                 |
+  | 17  |           리눅스에서 시스템 콜과 서브루틴의 차이는 ?            |                                                                 🔴                                                                 |
+
+  ***
+
+    </details>
+
 # 🦋 CS Group Study
 
 #### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study)
