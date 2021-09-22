@@ -278,7 +278,7 @@
 
 - 🌱 [Interview](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4)
 
-  - [🍄 Interview Tip](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
+  - [🍄 Interview Tip](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
   <br/>
     <details markdown="1">
     <summary><strong> 언어_Click here 👈🏻 </strong></summary>
