@@ -184,7 +184,7 @@
   |  7  |                  인덱스(INDEX)                  |                                      🟢                                      |
   |  8  |              트랜잭션(Transaction)              |                                      🟢                                      |
   |  9  | 트랜잭션 격리 수준(Transaction Isolation Level) |                                      🟢                                      |
-  | 10  |                  레디스(Redis)                  |                                      ㅊ                                      |
+  | 10  |                  레디스(Redis)                  |                                                                              |
 
   ***
 
@@ -277,8 +277,9 @@
     </details>
 
 - 🌱 Interview
+
   <details markdown="1">
-  <summary><strong> 언어\_Click here 👈🏻 </strong></summary>
+  <summary><strong> 언어_Click here 👈🏻 </strong></summary>
 
   | num |                          주제                           |                                                          공부기록                                                          |
   | :-: | :-----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -303,10 +304,10 @@
 
   ***
 
-      </details>
+  </details>
 
-      <details markdown="1">
-      <summary><strong> OS_Click here 👈🏻 </strong></summary>
+  <details markdown="1">
+  <summary><strong> OS_Click here 👈🏻 </strong></summary>
 
   | num |                              주제                               |                                                              공부기록                                                              |
   | :-: | :-------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -330,10 +331,10 @@
 
   ***
 
-      </details>
+  </details>
 
-      <details markdown="1">
-      <summary><strong> DB_Click here 👈🏻 </strong></summary>
+  <details markdown="1">
+  <summary><strong> DB_Click here 👈🏻 </strong></summary>
 
   | num |                               주제                                |                                                          공부기록                                                          |
   | :-: | :---------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -354,10 +355,10 @@
 
   ***
 
-      </details>
+  </details>
 
-      <details markdown="1">
-      <summary><strong> Network_Click here 👈🏻 </strong></summary>
+  <details markdown="1">
+  <summary><strong> Network_Click here 👈🏻 </strong></summary>
 
   | num |                        주제                        |                                                          공부기록                                                          |
   | :-: | :------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -373,9 +374,9 @@
 
   ***
 
-      </details>
-      <details markdown="1">
-      <summary><strong> Spring_Click here 👈🏻 </strong></summary>
+  </details>
+  <details markdown="1">
+  <summary><strong> Spring_Click here 👈🏻 </strong></summary>
 
   | num |               주제               |                                                          공부기록                                                          |
   | :-: | :------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -391,7 +392,7 @@
 
   ***
 
-      </details>
+  </details>
 
 # 🦋 CS Group Study
 
