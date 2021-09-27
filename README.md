@@ -41,11 +41,11 @@
   | num |           주제            |                                     공부기록                                      |
   | :-: | :-----------------------: | :-------------------------------------------------------------------------------: |
   |  1  | 디자인패턴 개요(Overview) | [🟢](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study/designPattern) |
-  |  2  |        어댑터 패턴        |                                        🔴                                         |
-  |  3  |        싱글톤 패턴        |                                        🔴                                         |
-  |  4  |    탬플릿 메소드 패턴     |                                        🔴                                         |
-  |  5  |    팩토리 메소드 패턴     |                                        🔴                                         |
-  |  6  |        옵저버 패턴        |                                        🔴                                         |
+  |  2  |        어댑터 패턴        |                                        🟢                                         |
+  |  3  |        싱글톤 패턴        |                                        🟢                                         |
+  |  4  |    탬플릿 메소드 패턴     |                                        🟢                                         |
+  |  5  |    팩토리 메소드 패턴     |                                        🟢                                         |
+  |  6  |        옵저버 패턴        |                                        🟢                                         |
   |  7  |      스트레티지 패턴      |                                        🔴                                         |
   |  8  |       컴포지트 패턴       |                                        🔴                                         |
   |  9  |           SOLID           |                                        🟢                                         |
@@ -115,7 +115,7 @@
   |  3  |            TCP/IP 흐름제어 & 혼잡제어            |                                     🟢                                      |
   |  4  |                     TCPvsUDP                     |                                     🟢                                      |
   |  5  |                 대칭키 & 공개키                  |                                     🟢                                      |
-  |  6  |                   HTTP & HTTPS                   |                                     🔴                                      |
+  |  6  |                   HTTP & HTTPS                   |                                     🟢                                      |
   |  7  |           로드 밸런싱(Load Balancing)            |                                     🔴                                      |
   |  8  |           Blocking & Non-Blocking I/O            |                                     🔴                                      |
   |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🔴                                      |
@@ -279,6 +279,7 @@
 - 🌱 [Interview](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4)
 
   - [🍄 Interview Tip](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
+  _ interview index
   <br/>
     <details markdown="1">
     <summary><strong> 언어_Click here 👈🏻 </strong></summary>
@@ -383,12 +384,10 @@
   | num |               주제               | 공부기록 |
   | :-: | :------------------------------: | :------: |
   |  1  |        Dispatcher-Servlet        |    🟢    |
-  |  2  |     DI(Dependency Injection)     |
-  | 🟢  |
+  |  2  |     DI(Dependency Injection |  🟢  |
   |  3  | AOP(Aspect Oriented Programming) |    🟢    |
   |  4  |             AOP 용어             |    🟢    |
-  |  5  |            Annotation            |
-  | 🟢  |
+  |  5  |            Annotation           | 🟢  |
   |  6  |           Spring JDBC            |    🟢    |
   |  7  |             MyBatis              |    🟢    |
 
