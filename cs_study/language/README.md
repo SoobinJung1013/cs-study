@@ -1,3 +1,8 @@
+
+# 🍊 JAVA
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
+- 
 ## 🍊 Language
 
 - Java
@@ -26,6 +31,3 @@
   - Promise
   - ECMAScript6(=ES6)
 
-# 🍊 JAVA
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
