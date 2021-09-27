@@ -1,4 +1,4 @@
-## 🫀 Language
+## 🍊 Language
 
 - Java
   - Java 컴파일 과정
@@ -25,3 +25,7 @@
   - this
   - Promise
   - ECMAScript6(=ES6)
+
+# 🍊 JAVA
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study/blob/main/Java/README.md)
