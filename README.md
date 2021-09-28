@@ -153,7 +153,7 @@
 
 - 🌱 [Computer Architecture](https://github.com/gyoogle/tech-interview-for-developer#computer-architecture)
     <details markdown="1">
-    <summary><strong> Click here 👈🏻</strong></summary>
+    <summary><strong> Click here ! 👈🏻</strong></summary>
 
   | num |            주제             |                                   공부기록                                   |
   | :-: | :-------------------------: | :--------------------------------------------------------------------------: |
