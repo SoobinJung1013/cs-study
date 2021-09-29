@@ -118,7 +118,7 @@
   |  6  |                   HTTP & HTTPS                   |                                     🟢                                      |
   |  7  |           로드 밸런싱(Load Balancing)            |                                     [🟢](https://prohannah.tistory.com/67)                                     |
   |  8  |           Blocking & Non-Blocking I/O            |                                     🔴                                      |
-  |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🔴                                      |
+  |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🟢                                      |
   |  10  |        로드밸런서(L4, L7, Nginx, HAProxy)         |                                     [🟢](https://prohannah.tistory.com/65)                                   |
   |  11  |DNS |                                  [🟢](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)                                     |
 
