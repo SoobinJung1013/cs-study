@@ -116,7 +116,7 @@
   |  4  |                     TCPvsUDP                     |                                     🟢                                      |
   |  5  |                 대칭키 & 공개키                  |                                     🟢                                      |
   |  6  |                   HTTP & HTTPS                   |                                     🟢                                      |
-  |  7  |           로드 밸런싱(Load Balancing)            |                                     🔴                                      |
+  |  7  |           로드 밸런싱(Load Balancing)            |                                     [🟢](https://prohannah.tistory.com/67)                                     |
   |  8  |           Blocking & Non-Blocking I/O            |                                     🔴                                      |
   |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🔴                                      |
 
