@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=CS%20and%20Interview&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=혜정이%20귀여웡%20헤헤&fontSize=90)
 
 ### 👇🏻 학습 주제
 
