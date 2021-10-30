@@ -23,8 +23,8 @@
   |  5  |        함수형 프로그래밍         |                                       🟢                                        |
   |  6  |         데브옵스(DevOps)         |                                       🟢                                        |
   |  7  |     서드 파티(3rd party)란?      |                                       🟢                                        |
-  |  8  |  MSA (마이크로 서비스 아키텍쳐)  |                                       🟢                                        |
-  |  9  |     Git 과 GitHub 에 대해서      |                                       🔴                                        |
+  |  8  |  MSA (마이크로 서비스 아키텍쳐)  |                                      🟢                                     |
+  |  9  |     Git 과 GitHub 에 대해서      |                                            🟢                                   |
   | 10  |              정규식              |                                       🔴                                        |
   | 11  |             Generic              |                                       🔴                                        |
   | 12  |              final               |                                       🔴                                        |
@@ -116,9 +116,11 @@
   |  4  |                     TCPvsUDP                     |                                     🟢                                      |
   |  5  |                 대칭키 & 공개키                  |                                     🟢                                      |
   |  6  |                   HTTP & HTTPS                   |                                     🟢                                      |
-  |  7  |           로드 밸런싱(Load Balancing)            |                                     🔴                                      |
+  |  7  |           로드 밸런싱(Load Balancing)            |                                     [🟢](https://prohannah.tistory.com/67)                                     |
   |  8  |           Blocking & Non-Blocking I/O            |                                     🔴                                      |
-  |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🔴                                      |
+  |  9  | Blocking,Non-blocking & Synchronous,Asynchronous |                                     🟢                                      |
+  |  10  |        로드밸런서(L4, L7, Nginx, HAProxy)         |                                     [🟢](https://prohannah.tistory.com/65)                                   |
+  |  11  |DNS |                                  [🟢](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)                                     |
 
   ***
 
@@ -153,7 +155,7 @@
 
 - 🌱 [Computer Architecture](https://github.com/gyoogle/tech-interview-for-developer#computer-architecture)
     <details markdown="1">
-    <summary><strong> Click here 👈🏻</strong></summary>
+    <summary><strong> Click here ! 👈🏻</strong></summary>
 
   | num |            주제             |                                   공부기록                                   |
   | :-: | :-------------------------: | :--------------------------------------------------------------------------: |
