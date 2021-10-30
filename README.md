@@ -2,6 +2,6 @@
 
 # contents
 
-- cs study
-- cs group study
-- school
+- [cs study](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
+- [cs group study](https://github.com/SoobinJung1013/cs-study/tree/main/group_study)
+- [school](https://github.com/SoobinJung1013/cs-study/tree/main/school)
