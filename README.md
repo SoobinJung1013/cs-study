@@ -2,6 +2,5 @@
 
 # contents
 
-- [cs study](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
-- [cs group study](https://github.com/SoobinJung1013/cs-study/tree/main/group_study)
-- [school](https://github.com/SoobinJung1013/cs-study/tree/main/school)
+- [cs_study](https://github.com/SoobinJung1013/cs-study/tree/main/cs_study)
+- [cs_techeer](https://github.com/SoobinJung1013/cs-study/tree/main/group_study)
