@@ -23,6 +23,7 @@
 | week |      주제       |                                                                          공부기록                                                                           |
 | :--: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1   | 네트워크 첫걸음 | [ㄱㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/cs_group_study/Network/%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/1.md) |
+|  2   |       1~~       | [ㄱㄱ](https://github.com/SoobinJung1013/cs-study/blob/main/cs_techeer/Network/%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/1to9.md)  |
 
 ---
 
