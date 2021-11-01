@@ -397,6 +397,6 @@
 
 <br/>
 
-### 🍄 기술 면접 준비하기
+### 🍄 [기술 면접 준비하기](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/PrepareForTechInterview.md)
 
-### 🫐 레퍼런스
+### 🫐 [레퍼런스](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/References.md)
