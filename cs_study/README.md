@@ -1,5 +1,3 @@
-## [🧝🏻‍♀️ go to README.md](https://github.com/SoobinJung1013/cs-study)
-
 ### 👇🏻 학습 주제
 
 - 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고
