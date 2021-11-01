@@ -4,7 +4,6 @@
 
 # 🦋 CS Study
 
-#### [🧝🏻‍♀️ go to repository](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/README.md)
 
 - 🌱 개발상식
 
