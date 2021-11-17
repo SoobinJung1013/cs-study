@@ -1,14 +1,12 @@
-### 👇🏻 학습 주제
+####  Reference : 🧃[gyoogle](https://github.com/gyoogle/tech-interview-for-developer)
 
-- 📍 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)참고
-
-# 🦋 CS Study
+# CS Study
 
 
-- 🌱 개발상식
+- 🥒 개발상식
 
-    <details markdown="1">
-    <summary><strong> Click here 👈🏻 </strong></summary>
+   <details markdown="1">
+   <summary><strong> Click here 👈🏻 </strong></summary>
 
   | num |               주제               |                                    공부기록                                     |
   | :-: | :------------------------------: | :-----------------------------------------------------------------------------: |
@@ -29,7 +27,7 @@
 
     </details>
 
-- 🌱 Design Pattern
+- 🥒 Design Pattern
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻  </strong></summary>
@@ -50,7 +48,7 @@
 
     </details>
 
-- 🌱 Data Structure
+- 🥒 Data Structure
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻  </strong></summary>
@@ -71,7 +69,7 @@
 
     </details>
 
-- 🌱 Algorithm
+- 🥒 Algorithm
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻 </strong></summary>
@@ -100,7 +98,7 @@
 
     </details>
 
-- 🌱 Network
+- 🥒 Network
     <details markdown="1">
     <summary><strong> Click here 👈🏻  </strong></summary>
 
@@ -122,7 +120,7 @@
 
     </details>
 
-- 🌱 OS
+- 🥒 OS
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻 </strong></summary>
@@ -149,7 +147,7 @@
 
     </details>
 
-- 🌱 Computer Architecture
+- 🥒 Computer Architecture
     <details markdown="1">
     <summary><strong> Click here ! 👈🏻</strong></summary>
 
@@ -166,7 +164,7 @@
 
     </details>
 
-- 🌱 DB
+- 🥒 DB
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻</strong></summary>
@@ -188,7 +186,7 @@
 
     </details>
 
-- 🌱 Web
+- 🥒 Web
 
     <details markdown="1">
     <summary><strong> Click here 👈🏻  </strong></summary>
@@ -225,7 +223,7 @@
 
     </details>
 
-- 🌱 [Language](https://github.com/gyoogle/tech-interview-for-developer#-language)
+- 🥒 [Language](https://github.com/gyoogle/tech-interview-for-developer#-language)
 
   - Java
 
@@ -274,10 +272,8 @@
 
     </details>
 
-# 🦋 Interview
-- 🌱 [contents](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4)
-
-  - interview index
+# Interview
+- 🥒 [contents](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#%EC%96%B8%EC%96%B4)
   <br/>
     <details markdown="1">
     <summary><strong> 언어_Click here 👈🏻 </strong></summary>
@@ -395,6 +391,6 @@
 
 <br/>
 
-### 🍄 [기술 면접 준비하기](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/PrepareForTechInterview.md)
+### 🍯 [기술 면접 준비하기](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/PrepareForTechInterview.md)
 
-### 🫐 [레퍼런스](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/References.md)
+### 🍯 [레퍼런스](https://github.com/SoobinJung1013/cs-study/blob/main/cs_study/References.md)
