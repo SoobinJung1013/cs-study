@@ -1,19 +1,7 @@
-### 📚 Study Group Repository
+#### 🧃[Study Group Repository](https://github.com/EunjiShin/CS-study)
+<br>
 
-- [click here 👈🏻](https://github.com/EunjiShin/CS-study)
-<!--
-
-# 🦋 Category
-
-- 🕸 [**Network**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/Network)
-
-- ⚙️ [**OS**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/OS)
-
-- 🧳 [**DB**](https://github.com/SoobinJung1013/cs-study/tree/main/cs_group_study/DB) -->
-
-<br/>
-
-## **Network**
+### 🥒 **Network**
 
 <details markdown="1">
 <summary><strong> 모두의 네트워크 </strong></summary>
@@ -38,7 +26,7 @@
 
 </details>
 
-## **DB**
+### 🥒 **DB**
 
 <details markdown="1">
 <summary><strong> SQL 첫걸음 </strong></summary>
@@ -65,7 +53,7 @@
 
 </details>
 
-## **OS**
+### 🥒 **OS**
 
 <details markdown="1">
 <summary><strong> Operating System Concept </strong></summary>
